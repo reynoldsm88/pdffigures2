@@ -33,8 +33,8 @@ lazy val projectSettings = Seq(
     "com.github.scopt" %% "scopt" % "3.7.1",
     "ch.qos.logback" % "logback-classic" % "1.1.7",
     "org.slf4j" % "jcl-over-slf4j" % "1.7.21",
-    "org.apache.pdfbox" % "pdfbox" % "2.0.1",
-    "org.apache.pdfbox" % "fontbox" % "2.0.1",
+    "org.apache.pdfbox" % "pdfbox" % "2.0.18",
+    "org.apache.pdfbox" % "fontbox" % "2.0.18",
     "com.typesafe" % "config" % "1.3.0",
 
     // So PDFBox can parse more image formats
